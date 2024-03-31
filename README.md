@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ToblerX
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning some basic stuff
+- 👀 I’m interested in AI and Backend
+- 🌱 I’m currently learning PyTorch and Flask
 - 💞️ I’m looking to collaborate on ... (no)
 - 📫 How to reach me : super.yaroslav05@gmail.com
 

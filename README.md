@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and Backend
 - 🌱 I’m currently learning PyTorch and Flask
 - 💞️ I’m looking to collaborate on ... (no)
-- 📫 How to reach me : super.yaroslav05@gmail.com
+- 📫 How to reach me : fyaroslav.offers@gmail.com
 
 <!---
 ToblerX/ToblerX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ToblerX
-- 👀 I’m interested in AI and Backend
-- 🌱 I’m currently learning PyTorch and Flask
+- 👀 I’m interested in Data Science, AI\ML and Backend Development
+- 🌱 I’m currently learning PyTorch, matplotlib, pandas
 - 💞️ I’m looking to collaborate on ... (no)
 - 📫 How to reach me : fyaroslav.offers@gmail.com
 

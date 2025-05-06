@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ToblerX
 - 👀 I’m interested in AI\ML and Backend Development
-- 🌱 I’m currently learning fastapi, PyTorch, matplotlib, pandas
+- 🌱 I’m currently learning fastapi
 - 💞️ I’m looking to collaborate on ... (no)
 - 📫 How to reach me : fyaroslav.offers@gmail.com
 

@@ -7,6 +7,10 @@ I'm a **Fullstack Engineer** with over 3 years of experience developing scalable
 * 🌱 Currently deep-diving into **FastAPI** to build high-performance RESTful APIs.
 * ⚡ I also have experience working with data pipelines and AI using **PyTorch**, **pandas**, and the **Anthropic API**.
 
+### 🚀 What I'm Currently Working On
+* 🎓 **[Teachapp](https://ezteacher.online/)** — A full-stack tutor management platform featuring an automated private gradebook, gamification algorithms, and a custom registration system. Built using **FastAPI and Next.js**.
+* 🛍️ **[MerchIvana](https://www.instagram.com/irybka/)** — A full-scale e-commerce web application for a blogger's merch shop. It features complex integrations for payments and logistics, an extended admin panel, and high-load media delivery. Built using **FastAPI and Next.js**.
+
 ### 🛠️ Tech Stack
 * **Backend:** FastAPI, SQLAlchemy, Celery
 * **Frontend:** React.js, Next.js, Tailwind.css, shadcn
